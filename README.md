@@ -11,5 +11,7 @@
 Hace mas dificil atacar servidor ya que el aceso a los logs se hace mas dificil de acceder. Protege datos personales. Mejor control de acesso. Menos avisos falsos. [3]
 
 [1] "Linux Syslog Explained: Configuration and Tips" last9.io. https://last9.io/blog/linux-syslog-explained/ (accessed 17/04/2026).
+
 [2] "Syslog Levels Made Simple: Why They Matter for Your Logs" last9.io.  https://last9.io/blog/what-are-syslog-levels/ (accessed 17/04/2026).
+
 [3] "Dialnet Log Management" dialnet.unirioja.es.  https://dialnet.unirioja.es/buscar/documentos?querysDismax.DOCUMENTAL_TODO=Log+Management (accessed 17/04/2026).
